@@ -1,4 +1,5 @@
 #Air Cored Inductor Calculator
+#21-03-2019 Simon Gough
 import math
 
 def mainMenu():
